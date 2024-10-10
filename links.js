@@ -1,4 +1,4 @@
-  var gplink = 'https://msm.mahedims.xyz/?utm_medium=1062f0b30e37b2bc5ff89cbd48c9c3d4e351d6d3&utm_campaign=gggg11';
-  var bllink = 'https://msm.mahedims.xyz/?utm_medium=f5df29cd3637b1adc2dece552c02a75fd8d1cec6&utm_campaign=bbb11';
-  var arlink = 'https://msm.mahedims.xyz/?utm_medium=879f63da4b267490e8d030ed60ca28409e4a8efc&utm_campaign=aaaa111';
-  var rblink = 'https://msm.mahedims.xyz/?utm_medium=879f63da4b267490e8d030ed60ca28409e4a8efc&utm_campaign=aaaa111';
+  var gplink = 'https://aff.mehedibhai.shop/?utm_medium=0ebef84a609cea978bcdfc130b06f0891fc5c259&utm_campaign=Gp11';
+  var bllink = 'https://aff.mehedibhai.shop/?utm_medium=b2b5f8177381d37a5c670b2299d417d1ba779995&utm_campaign=Bl11';
+  var arlink = 'https://aff.mehedibhai.shop/?utm_medium=a6bd67f4f289cb33871ed3b0de9f51f1491ed7c5&utm_campaign=Artel11';
+  var rblink = 'https://aff.mehedibhai.shop/?utm_medium=a6bd67f4f289cb33871ed3b0de9f51f1491ed7c5&utm_campaign=Artel11';
